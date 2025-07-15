@@ -28,7 +28,7 @@ This file presents insights from analyzing the credit scores (0–1000) assigned
 
 ---
 
-## 🕵️‍♂️ Behavior in Low-scoring Wallets (0–300)
+##  Behavior in Low-scoring Wallets (0–300)
 
 - High borrow without repay
 - Repeated liquidation events
@@ -37,7 +37,7 @@ This file presents insights from analyzing the credit scores (0–1000) assigned
 
 ---
 
-## 🌟 Behavior in High-scoring Wallets (800–1000)
+##  Behavior in High-scoring Wallets (800–1000)
 
 - High deposit-to-borrow ratio
 - Strong repayment habits
@@ -46,7 +46,7 @@ This file presents insights from analyzing the credit scores (0–1000) assigned
 
 ---
 
-## 🔁 Next Steps
+##  Next Steps
 
 - Add more advanced features (collateral ratios, asset type, on-chain history)
 - Use real labeled data from oracle/trust providers
