@@ -8,9 +8,9 @@ This file presents insights from analyzing the credit scores (0–1000) assigned
 
 | Score Range | # Wallets | % of Total | Behavior Summary |
 |-------------|-----------|------------|------------------|
-| 900–1000    | X         | X%         | Highly reliable wallets. Consistent deposits and repayments, no liquidations. |
-| 800–899     | X         | X%         | Good actors. Slightly lower activity or a few missed repayments. |
-| 600–799     | X         | X%         | Average users. Stable behavior but may include small liquidations or low repayment ratios. |
+| 900–1000    | 0         | 0%         | Highly reliable wallets. Consistent deposits and repayments, no liquidations. |
+| 800–899     | 0         | 0%         | Good actors. Slightly lower activity or a few missed repayments. |
+| 600–799     | 0         | 0%         | Average users. Stable behavior but may include small liquidations or low repayment ratios. |
 | 400–599     | 1         | 0.03%      | Risk-prone users. Irregular actions, more borrowing than repaying. |
 | 200–399     | 766       | 21.90%     | Suspicious activity. Frequent liquidations, low engagement. |
 | 0–199       | 2724      | 77.90%     | Likely bots or exploiters. Almost no repayment, rapid-fire actions, or full liquidation events. |
